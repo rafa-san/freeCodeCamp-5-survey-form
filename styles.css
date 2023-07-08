@@ -1,0 +1,80 @@
+body {
+  background-color: #4F5165;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  margin: auto;
+  width: 90%;
+}
+
+#title,
+#description {
+  color: white;
+  margin: 0.5em auto;
+  max-width: 600px;
+  text-align: center;
+}
+
+form {
+  background-color: #4F5165;
+  border: 1px solid white;
+  border-radius: 8px;
+  color: white;
+  margin: 16px auto;
+  max-width: 600px;
+  width: 90%;
+}
+
+fieldset {
+  border: none;
+  margin: 0.5em 0;
+}
+
+label {
+  display: block;
+  margin: 0.5em 0;
+  padding: 0;
+}
+
+input, textarea, select {
+  border: none;
+  display: block;
+  margin: 2px auto;
+  min-height: 2em;
+  width: 100%;
+}
+
+#number-label {
+  margin: 0.5em 0;
+}
+
+.inline {
+  display: unset;
+  vertical-align: middle;
+  width: unset;
+}
+
+form p {
+  margin: 0.5em 0;
+}
+
+select ~ p,
+label:last-of-type {
+  margin-top: 1.7em;
+}
+
+#submit {
+  background-color: white;
+  cursor: pointer;
+  font-size: 0.9em;
+  padding: 8px;
+  width: 60%;
+}
+
+#submit:hover {
+  background-color: #547AA5;
+  color: white;
+}
