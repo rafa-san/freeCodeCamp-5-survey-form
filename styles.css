@@ -34,17 +34,17 @@ fieldset {
 }
 
 label {
-  display: block;
   margin: 0.5em 0;
   padding: 0;
+  display: block;
 }
 
 input, textarea, select {
   border: none;
-  display: block;
   margin: 2px auto;
   min-height: 2em;
   width: 100%;
+  display: block;
 }
 
 #number-label {
@@ -52,9 +52,9 @@ input, textarea, select {
 }
 
 .inline {
-  display: unset;
   vertical-align: middle;
   width: unset;
+  display: unset;
 }
 
 form p {
