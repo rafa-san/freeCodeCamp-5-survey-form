@@ -3,16 +3,16 @@
 # Responsive Web Design Certification | Certification Project 01
 
 ## 1️⃣ Objetivo
-Desenvolver um formulário de pesquisa que funcione de maneira semelhante ao exemplo dado pelo **freeCodeCamp**.
+Desenvolver um formulário de pesquisa utilizando o exemplo fornecido pela plataforma como referência.
 
 ## 2️⃣ Descrição
 Este projeto é parte da trilha **Responsive Web Design Certification** e marca meu primeiro desafio no formato **Certification Project**.
 
-A ideia principal é consolidar os conhecimentos adquiridos ao longo da trilha, criando um formulário responsivo e funcional, sem copiar o exemplo fornecido pelo **freeCodeCamp**.
+Os **Certification Project** exigem que o desenvolvimento seja realizado de forma independente, sem mentoria direta. Para que o projeto seja aprovado, é necessário cumprir critérios específicos estabelecidos pela plataforma, principalmente relacionados à estrutura HTML. No entanto, há total liberdade para criar o design (CSS), permitindo dar um toque pessoal à página.
 
-O diferencial deste exercício é o desenvolvimento da página sem qualquer tipo de mentoria. Para ser aprovado, o projeto deve atender a critérios específicos estabelecidos pela plataforma.
+O principal objetivo desse formato é consolidar os conhecimentos adquiridos ao longo dos cursos anteriores, proporcionando uma experiência prática bastante significativa.
 
-**Um Aviso Importante:**
+**Aviso Importante:**
 Seguindo as diretrizes do **freeCodeCamp**, este projeto foi desenvolvido de forma honesta e independente, sem plágio ou cópia direta do exemplo fornecido. Todo o processo envolveu pesquisas, tentativas e erros, valorizando meu esforço pessoal.
 
 ## 3️⃣ Principais Modificações
