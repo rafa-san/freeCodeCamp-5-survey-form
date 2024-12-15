@@ -1,6 +1,6 @@
 ![Badge](https://img.shields.io/badge/freeCodeCamp-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-PRÓPRIO-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
-# Responsive Web Design Certification | Certification Project 01
+# Responsive Web Design Certification | Certification Project #01
 
 ## 1️⃣ Objetivo
 Desenvolver um formulário de pesquisa utilizando o exemplo fornecido pela plataforma como referência.
@@ -8,7 +8,9 @@ Desenvolver um formulário de pesquisa utilizando o exemplo fornecido pela plata
 ## 2️⃣ Descrição
 Este projeto é parte da trilha **Responsive Web Design Certification** e marca meu primeiro desafio no formato **Certification Project**.
 
-Os **Certification Project** exigem que o desenvolvimento seja realizado de forma independente, sem mentoria direta. Para que o projeto seja aprovado, é necessário cumprir critérios específicos estabelecidos pela plataforma, principalmente relacionados à estrutura HTML. No entanto, há total liberdade para criar o design (CSS), permitindo dar um toque pessoal à página.
+Os **Certification Project** exigem que o desenvolvimento seja realizado de forma independente, sem mentoria direta. 
+
+Para que o projeto seja aprovado, é necessário cumprir critérios específicos estabelecidos pela plataforma, principalmente relacionados à estrutura HTML. No entanto, há total liberdade para criar o design (CSS), permitindo dar um toque pessoal à página.
 
 O principal objetivo desse formato é consolidar os conhecimentos adquiridos ao longo dos cursos anteriores, proporcionando uma experiência prática bastante significativa.
 
@@ -39,7 +41,7 @@ A minha versão foi adaptada para um contexto de pesquisa de satisfação de uma
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao freeCodeCamp por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
+Agradeço ao **freeCodeCamp** por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
 - <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp 🔗</a>
 
 Tutoriais consultados: 
